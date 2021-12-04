@@ -7,6 +7,6 @@ In this project, we tried to developed a model which can predict the funding a g
 ### Team
 
 1. [J Jeshwanth Reddy](https://github.com/jeshwanthreddy13)
-2. [Nama Naga Hitesh](https://github.com/Rohith-G1024)
+2. [Nama Naga Hitesh](https://github.com/Hiteshnn)
 3. [Suhas R](https://github.com/Suhasr76)
 4. [V Manas Advaith](https://github.com/ManasAdvaith)
