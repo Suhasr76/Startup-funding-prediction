@@ -4,6 +4,8 @@
 # Introduction
 In this project, we tried to developed a model which can predict the funding a given Startup can raise based on criterion like location, Startup field etc.
 
+##### **[Project Explanation video](https://drive.google.com/file/d/1OFqUnTKxLlAvGpRi6Cnn_31hs8nTmpvL/view)**
+
 ### Team
 
 1. [J Jeshwanth Reddy](https://github.com/jeshwanthreddy13)
